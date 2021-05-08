@@ -2,6 +2,21 @@
   "name": "pkce-utils",
   "version": "0.1.0",
   "description": "PKCE util to generate pkce paramters for mobile oath",
+  "license": "MIT",
+  "homepage": "https://github.com/bithyve/pkce-utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bithyve/pkce-utils.git"
+  },
+  "author": {
+    "name": "AliMeer",
+    "email": "Ali@Purple7.Com",
+    "url": "https://www.bithyve.com"
+  },
+  "scripts": {
+    "test": "tap tests",
+    "lint": "eslint ."
+  },
   "main": "index.js",
   "keywords": [
     "Hexa",
