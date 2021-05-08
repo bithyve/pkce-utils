@@ -53,6 +53,12 @@ typings/
 # Optional eslint cache
 .eslintcache
 
+#
+node_modules
+.DS_Store
+project.xcworkspace
+xcuserdata
+
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/

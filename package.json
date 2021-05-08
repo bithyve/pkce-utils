@@ -1,0 +1,19 @@
+{
+  "name": "pkce-utils",
+  "version": "0.1.0",
+  "description": "PKCE util to generate pkce paramters for mobile oath",
+  "main": "index.js",
+  "keywords": [
+    "Hexa",
+    "BitHyve"
+  ],
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "tap": "^15.0.2"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
